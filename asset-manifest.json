@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38aff16e.css",
+    "main.js": "/static/js/main.e7080300.js",
+    "static/js/453.63850818.chunk.js": "/static/js/453.63850818.chunk.js",
+    "static/media/sofa promotional header.svg": "/static/media/sofa promotional header.385ce3a1f1f9740ea610170fc9e720cb.svg",
+    "static/media/image 1169.svg": "/static/media/image 1169.ca6728bece645588f1879dafbde67435.svg",
+    "static/media/image 1.svg": "/static/media/image 1.089b8ce3d54912e3c4316dfb538b602a.svg",
+    "static/media/image 3.svg": "/static/media/image 3.431bc7b533be9ce2b7cd9a0f625ff099.svg",
+    "static/media/image 1168.svg": "/static/media/image 1168.7b7bd48aaea29d4ee0cb0c1672cb7df2.svg",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/static/media/JosefinSans-VariableFont_wght.613585db06f849ca7717.ttf",
+    "static/media/bulb.svg": "/static/media/bulb.876c0256676d0c447a10793d8d411c6f.svg",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/login-companies.svg": "/static/media/login-companies.049d06466442679c50f99f13350347b1.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.38aff16e.css.map": "/static/css/main.38aff16e.css.map",
+    "main.e7080300.js.map": "/static/js/main.e7080300.js.map",
+    "453.63850818.chunk.js.map": "/static/js/453.63850818.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38aff16e.css",
+    "static/js/main.e7080300.js"
+  ]
+}
